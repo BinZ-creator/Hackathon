@@ -1,2 +1,2 @@
 # Hackthon
-The project with the credit score company
+The project with the credit score company Graydon
